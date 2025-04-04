@@ -9,6 +9,7 @@ Kod nie zawsze idealny, ale pokazuje moje początki z programowaniem. 💻
 ## Co tu znajdziesz?
 - Proste algorytmy i struktury danych
 - Projekty szkolne
+
 Postaram się odkopać tego więcej :-P
 
 ## Jak odpalić?
